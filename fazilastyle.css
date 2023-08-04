@@ -1,0 +1,163 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+
+html{
+scroll-behavior: smooth;
+}
+body{
+margin:0;
+padding:0;
+font-family:Arial;
+}
+nav{
+width:100%;
+background: #262626;
+overflow:hidden;
+position:fixed;
+top:0;
+}
+ul{
+padding:0;
+margin:0;
+list-style:none;
+}
+li{
+float:left;
+}
+a{
+padding:20px;
+width:100px;
+display:block;
+text-dacoration:none;
+color:#fff;
+text-transform:uppercase;
+font-weight:bold;
+}
+#section1{
+background-image: url('a.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center;
+font-family:sans-serf;
+
+
+
+height:700px;
+display:inline-block;
+width:100%;
+color:white;
+font-size: 40px;
+text-align:center;
+
+}
+#section2{
+background-image: url('b.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center;
+font-family:sans-serf;
+height:700px;
+display:inline-block;
+width:100%;
+color:white;
+
+}
+#section3{
+background-image: url('e.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center;
+font-family:sans-serf;
+
+height:700px;
+display:inline-block;
+width:100%;
+color:white;
+
+
+}
+#section4{
+background-image: url('d.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center;
+font-family:sans-serf;
+
+height:700px;
+display:inline-block;
+width:100%;
+color:white;
+
+
+}
+#section5{
+background-image: url('e.jpg');
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center;
+font-family:sans-serf;
+
+height:700px;
+display:inline-block;
+width:100%;
+color:white;
+font-size: 40px;
+}
+h1{
+margin:100px;
+text-align:center;
+padding:0;
+}
+input[type="submit"]{
+margin-left:40%;
+float:center;
+width:20%;
+height:3em;
+background:transparent;
+color:white;
+border-radius:50px;
+font-size: 20px;
+backdrop-filter: brightness(10%);
+}
+input[type="text"]{
+margin-left:40%;
+width:20%;
+height:3em;
+background:transparent;
+
+marign-top2%;
+margin-bottom:2em;
+color:white;
+border-radius:100px;
+backdrop-filter: brightness(10%);
+}
+input[type="Message"]{
+margin-left:40%;
+width:20%;
+height:8em;
+background:transparent;
+marign-top2%;
+margin-bottom:2em;
+color:white;
+
+backdrop-filter: brightness(10%);
+}
+p{
+font-size: 25px;
+margin-left:20%;
+}
+input[type="login"]{
+
+float:center;
+width:15%;
+height:3em;
+background:transparent;
+color:white;
+border-radius:50px;
+font-size: 20px;
+backdrop-filter: brightness(10%);
+}
+form{
+
+margin-left:40%;
+}
+
